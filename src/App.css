@@ -1,0 +1,25 @@
+.App {
+  width: 40%;
+  height: 15rem;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.font-1 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.font-2 {
+  font-family: 'Mina', sans-serif;
+}
+
+.font-3 {
+  font-family: 'Karma', serif;
+}
+
